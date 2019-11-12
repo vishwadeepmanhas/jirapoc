@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 12 00:39:08 GMT 2019
+mockito-all-1.9.0-sources.jar>central=
+mockito-all-1.9.0.jar>central=
+mockito-all-1.9.0.pom>central=

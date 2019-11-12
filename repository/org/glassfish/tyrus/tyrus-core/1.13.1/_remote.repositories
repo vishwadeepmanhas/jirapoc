@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 19 23:54:24 IST 2018
+tyrus-core-1.13.1.jar>central=
+tyrus-core-1.13.1-sources.jar>central=
+tyrus-core-1.13.1.pom>central=

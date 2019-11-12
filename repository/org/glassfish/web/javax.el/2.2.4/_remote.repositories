@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 19 00:51:21 IST 2018
+javax.el-2.2.4.jar>central=
+javax.el-2.2.4.pom>central=
+javax.el-2.2.4-javadoc.jar>central=
